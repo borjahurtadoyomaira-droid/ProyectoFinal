@@ -1,0 +1,5 @@
+Miercoles 28 de Octubre:
+En la clase inició un nuevo tema denominado librerias el cual siendo más prevalente Numpy;
+se profundizó de esta siendo su función especial matrices.
+Exploramos desde import para poder inicializar hasta diferentes metodos para poder ejecutar todo con mayor facilidad.
+Explicó la terminología de vectorización y arreglo; recordando el dir junto con el type.
