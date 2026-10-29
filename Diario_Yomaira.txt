@@ -1,0 +1,8 @@
+Miércoles 28 de octubre 
+
+- Vimos librerías de numpy, pandas y matplotlib para matrices
+- Miramos arreglos con array, zeros, ones, arange, linspace, random.normal y números aleatorios
+- También miramos matrices con filas, columnas, dimensiones, elementos en total, y tipo de variable con shape, ndim, size, dty
+- Miramos indexaciones y que cuando queremos copiar lo mismo utilizamos copy 
+- Realizamos operaciones vectoriales 
+- Y por ultimo filtrar datos con mascaras booleanas para sumar, sacar promedio, mediana, desviación estándar y valor único con mean, median, std, unique
