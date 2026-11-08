@@ -6,3 +6,9 @@ Miércoles 28 de octubre
 - Miramos indexaciones y que cuando queremos copiar lo mismo utilizamos copy 
 - Realizamos operaciones vectoriales 
 - Y por ultimo filtrar datos con mascaras booleanas para sumar, sacar promedio, mediana, desviación estándar y valor único con mean, median, std, unique
+
+Miércoles 4 de noviembre 
+- Continuamos con librerías pero en Pandas as pd.
+- vimos series, dataframe, índice, etiquetas, posiciones, mascaras bueleanas y limpieza de datos faltantes y duplicados.
+- Nos dejo claro que pandas se trata y se enfoca en organizar datos
+- Por ultimo nos dejo de tarea buscar dos dataset  que sean Excel csv sobre biomédica 
