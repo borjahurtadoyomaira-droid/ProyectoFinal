@@ -3,3 +3,10 @@ En la clase inició un nuevo tema denominado librerias el cual siendo más preva
 se profundizó de esta siendo su función especial matrices.
 Exploramos desde import para poder inicializar hasta diferentes metodos para poder ejecutar todo con mayor facilidad.
 Explicó la terminología de vectorización y arreglo; recordando el dir junto con el type.
+
+Miercoles 4 de Noviembre:
+Continuamos con el tema de las librerias enfocandonos en Pandas as pd;
+luego de repasar conceptos de la clase anterior en la cual algunas veces me confundo, se continuó con series, dataframe
+iíndice, etiquetas, posición, mascara siendo estos los terminos mas importantes de la clase, aclarando que pandas
+se enfoca en organizar datos. 
+Se dejó de pendiente buscar dos dataframe relacionado con biomédica.
