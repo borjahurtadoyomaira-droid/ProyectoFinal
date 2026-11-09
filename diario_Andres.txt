@@ -14,3 +14,14 @@ miércoles 4 de noviembre
 - Practicamos la extracción de datos usando etiquetas con .loc[], posiciones numéricas con .iloc[], y cortes de filas o columnas específicos.
 - Aplicamos condiciones lógicas para filtrar filas (por ejemplo, estudiantes con notas mayores o iguales a 3.0 o rangos específicos entre notas) y calculamos la forma resultante con .shape.
 - Identificamos y contamos datos faltantes (NaN) utilizando df.isna() y .sum(), y creamos un DataFrame limpio eliminando dichos registros con df.dropna().
+
+lunes 9 de noviembre 
+
+- Importamos las librerías pandas y numpy para el manejo y procesamiento de estructuras de datos tabulares.
+- Leímos un archivo en formato CSV llamado "estudiantes.csv" utilizando la función pd.read_csv() para almacenarlo en un DataFrame.
+- Inspeccionamos las dimensiones, columnas e índices del conjunto de datos, así como sus primeras y últimas filas empleando los métodos .head() y .tail().
+- Consultamos la información general de la estructura con .info() y obtuvimos un resumen estadístico descriptivo mediante .describe().
+- Extrajimos columnas específicas como Series de Pandas y validamos los tipos de datos correspondientes con type().
+- Practicamos la recuperación de datos mediante etiquetas usando .loc[], posiciones numéricas relativas con .iloc[] y cortes de rangos específicos.
+Aplicamos condiciones lógicas para aislar registros bajo ciertos criterios (como rangos de notas) y evaluamos la forma resultante con la propiedad .shape.
+- Identificamos la presencia de datos faltantes (NaN) mediante df.isna() y el conteo por columna con .sum(), y filtramos el DataFrame eliminando dichos registros con df.dropna().
