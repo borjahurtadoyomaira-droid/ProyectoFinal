@@ -4,3 +4,13 @@ Miercoles 28 de octubre
 - Armamos matrices de dos dimensiones (tipo tablas de notas) y practicamos slicing para recortar datos.
 - Hicimos operaciones matemáticas directas entre arreglos (sumas, restas y potencias).
 - Aplicamos funciones estadísticas para calcular el promedio (.mean()), mediana, mínimo, máximo y desviación estándar.
+
+miércoles 4 de noviembre 
+- Importamos pandas como pd y numpy como np para trabajar con estructuras de datos tabulares y arreglos numéricos.
+- Leímos un conjunto de datos desde un archivo CSV (estudiantes.csv) utilizando pd.read_csv() para visualizarlo como un DataFrame de Pandas.
+- Visualizamos las primeras y últimas filas del conjunto de datos con .head() y .tail(), y consultamos las columnas, índices y dimensiones generales.
+- Seleccionamos columnas específicas como series de Pandas (ej. la columna "nota") y validamos los tipos de datos con .info() y type().
+- Aplicamos el método .describe() para obtener un resumen estadístico global (media, desviación estándar, valores mínimos y máximos, y cuartiles) de las variables numéricas.
+- Practicamos la extracción de datos usando etiquetas con .loc[], posiciones numéricas con .iloc[], y cortes de filas o columnas específicos.
+- Aplicamos condiciones lógicas para filtrar filas (por ejemplo, estudiantes con notas mayores o iguales a 3.0 o rangos específicos entre notas) y calculamos la forma resultante con .shape.
+- Identificamos y contamos datos faltantes (NaN) utilizando df.isna() y .sum(), y creamos un DataFrame limpio eliminando dichos registros con df.dropna().
