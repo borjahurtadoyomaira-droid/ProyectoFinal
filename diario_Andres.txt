@@ -1,0 +1,6 @@
+Miercoles 28 de octubre
+- Importamos y usamos la librería NumPy en Colab para trabajar con arreglos numéricos.
+- Creamos arreglos rápidos con zeros, ones, arange y linspace, además de datos aleatorios.
+- Armamos matrices de dos dimensiones (tipo tablas de notas) y practicamos slicing para recortar datos.
+- Hicimos operaciones matemáticas directas entre arreglos (sumas, restas y potencias).
+- Aplicamos funciones estadísticas para calcular el promedio (.mean()), mediana, mínimo, máximo y desviación estándar.
