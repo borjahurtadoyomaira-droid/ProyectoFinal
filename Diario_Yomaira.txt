@@ -12,3 +12,9 @@ Miércoles 4 de noviembre
 - vimos series, dataframe, índice, etiquetas, posiciones, mascaras bueleanas y limpieza de datos faltantes y duplicados.
 - Nos dejo claro que pandas se trata y se enfoca en organizar datos
 - Por ultimo nos dejo de tarea buscar dos dataset  que sean Excel csv sobre biomédica 
+
+Lunes 9 de noviembre
+- Continuamos viendo librerías pero en matplotlib que sirve para graficas
+- Vimos coordenadas, leyendas, limites, label, curvas, grillas.
+- También se pueden hacer varios tipos de graficas como grafico de dispersión con plt.scatter, grafica de barras con plt.bar, grafico de histograma con plt.hist, grafico de torta con plt.pie y etiquetas y porc que es porcentaje autopct que muestra los porcentajes, subgraficas plt.subplot que solo se cambia la posicion, texto y anotaciones con plt.annotable y plt.text, tamaño de la figura y guardar con plt.figure(figsize=()) plt.savefig y plt.show.
+- Por ultimo vimos que vamos hacer en el proyecto final y en el examen .
