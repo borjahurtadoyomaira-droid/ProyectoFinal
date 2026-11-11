@@ -1,0 +1,47 @@
+DESCRIPCIÓN GENERAL
+
+- Nombre de la base de datos: Heart Disease Dataset
+
+- ¿Qué es la base de datos? (tema, contexto y propósito):
+Es un dataset clínico utilizado para predecir la presencia o ausencia de enfermedades cardíacas en pacientes. Contiene atributos médicos obtenidos mediante exámenes físicos, análisis sanguíneos y electrocardiogramas para identificar factores de riesgo cardiovascular.
+
+- ¿Cómo se obtuvieron los datos?: Registros médicos e instrumentos de diagnóstico hospitalario (Cleveland Database / UCI Repository).
+
+- Fuente / URL de descarga: UCI Machine Learning Repository / Kaggle (https://archive.ics.uci.edu/ml/datasets/heart+disease)
+
+- Número de filas y columnas: 1,025 filas y 14 columnas.
+
+- Formato del archivo: CSV (.csv)
+
+DESCRIPCIÓN DE COLUMNAS
+
+Nombre de columna / Tipo de dato / Descripción / Ejemplo de valor
+
+
+age / Numérico (int) / Edad del paciente en años / 52
+
+sex / Numérico (int) / Género del paciente (1 = hombre, 0 = mujer) / 1
+
+cp/ Numérico (int) / Tipo de dolor en el pecho (0: típico, 1: atípico, 2: no anginoso, 3: asintomático) / 0
+
+trestbps / Numérico (int) / Presión arterial en reposo al ingresar al hospital (mm Hg) / 125
+
+chol / Numérico (int) / Colesterol sérico en mg/dl / 212
+
+fbs / Numérico (int) / Glucemia en ayunas > 120 mg/dl (1 = verdadero, 0 = falso) / 0
+
+restecg / Numérico (int) / Resultados electrocardiográficos en reposo (0, 1, 2) / 1
+
+thalach / Numérico (int) / Frecuencia cardíaca máxima alcanzada durante la prueba / 168
+
+exang / Numérico (int) / Angina inducida por el ejercicio (1 = sí, 0 = no) / 0
+
+oldpeak / Numérico (float) / Depresión del segmento ST inducida por el ejercicio en relación con el reposo / 1.0
+
+slope / Numérico (int) / Pendiente del segmento ST en el pico del ejercicio (0, 1, 2) / 2
+
+ca / Numérico (int) / Número de vasos principales coloreados por fluoroscopía (0-4) / 2
+
+tal / Numérico (int) / Resultado del test de talio (0 = nulo, 1 = normal, 2 = defecto fijo, 3 = defecto reversible) / 3
+
+target / Numérico (int) / Presencia de enfermedad cardíaca (1 = diagnóstico positivo, 0 = diagnóstico negativo) / 0

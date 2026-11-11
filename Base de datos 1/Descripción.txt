@@ -1,0 +1,38 @@
+DESCRIPCIÓN GENERAL
+
+- Nombre de la base de datos: Maternal Health Risk Data Set
+
+- ¿Qué es la base de datos? (tema, contexto y propósito):
+Es un conjunto de datos recopilado de diferentes hospitales, clínicas y sitios comunitarios para evaluar el nivel de riesgo de salud materna durante el embarazo. El propósito es clasificar y predecir la intensidad del riesgo de salud (Low, Mid, High Risk) a partir de signos vitales e indicadores fisiológicos de las pacientes.
+
+- ¿Cómo se obtuvieron los datos?: Registros clínicos e investigación médica en servicios de salud materna.
+
+- Fuente / URL de descarga: UCI Machine Learning Repository / Kaggle (https://archive.ics.uci.edu/ml/datasets/Maternal+Health+Risk+Data+Set)
+
+- Número de filas y columnas: 1,014 filas y 7 columnas.
+
+- Formato del archivo: CSV (.csv)
+
+
+DESCRIPCIÓN DE LAS COLUMNAS
+
+Nombre de columna / Tipo de dato / Descripción / Ejemplo de valor
+
+Age / Numérico (int) / Edad de la mujer embarazada en años / 25
+
+SystolicBP / Numérico (int) / Presión arterial sistólica (mm Hg) / 130
+
+DiastolicBP / Numérico (int) / Presión arterial diastólica (mm Hg) / 80
+
+BS / Numérico (float) / Niveles de glucosa en sangre (mmol/L) / 15.0
+
+BodyTemp / Numérico (float) / Temperatura corporal en grados Fahrenheit / 98.0
+
+HeartRate / Numérico (int) / Frecuencia cardíaca en latidos por minuto (bpm) / 70
+
+RiskLevel / Texto (str) / Nivel de riesgo en salud materna (low risk, mid risk, high risk) / high risk
+
+
+
+
+
