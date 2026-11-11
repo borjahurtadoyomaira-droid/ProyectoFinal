@@ -10,7 +10,13 @@ Fuentes URL de descarga: kaggle repositorio público de conjuntos de datos https
 Numero de filas y columnas: 5783 filas y 27 columnas
 
 Formato del archivo : CSV
-
+Nombre de columna/Tipo de dato/Descripción/Ejemplo de valor
+nct_id	Texto (str)	Identificador único del ensayo clínico en el registro oficial	NCT04370228
+study_title	Texto (str)	Título principal o nombre asignado al estudio	A Study to Evaluate the Safety of...
+study_status	Texto (str)	Estado actual del desarrollo del ensayo clínico	Completed
+conditions	Texto (str)	Condición médica o enfermedad principal analizada	COVID-19
+interventions	Texto (str)	Tratamiento, fármaco o procedimiento bajo evaluación	Drug: Remdesivir
+start_date	Fecha (date)	Fecha en la que dio inicio el ensayo clínico	2020-03-15
 			
 			
 			
