@@ -1,0 +1,20 @@
+Nombre de la base de datos: COVID clinical trials
+
+¿Qué es la base de datos?: Es un conjunto de datos que recopila información detallada sobre ensayos clínicos relacionas con el COVID-19 a nivel global,teniendo en cuenta detalles sobre el estado de los estudios, las intervenciones evaluadas, las condiciones médicas, los patrocinadores y los criterios de elegibilidad con el propósito de respaldar la investigación médica y epidemiológica.
+
+
+¡Cómo se obtuvieron los datos?: Mediante registros administrativos y extracción de datos públicos desde plataformas oficiales de registros de ensayos clínicos.
+
+Fuentes URL de descarga: kaggle repositorio público de conjuntos de datos https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials
+
+Numero de filas y columnas: 5783 filas y 27 columnas
+
+Formato del archivo : CSV
+
+			
+			
+			
+			
+			
+			
+			

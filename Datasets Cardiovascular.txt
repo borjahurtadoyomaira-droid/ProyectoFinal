@@ -1,0 +1,11 @@
+Nombre de la base de datos: Heart Disease Dataset (heart.csv)
+
+¿Qué es la base de datos?: Es un conjunto de datos médico-estadístico diseñado para el análisis y la predicción de enfermedades cardiovasculares, recopilando características clínicas, de laboratorio y demográficas de los pacientes para evaluar la presencia o ausencia de cardiopatías.
+
+¿Cómo se obtuvieron los datos?: Mediante registros médicos clínicos y estudios de pacientes recopilados de bases de datos públicas (como el repositorio de Machine Learning de la UCI y datos clínicos de Cleveland).
+
+Fuente / URL de descarga: Kaggle / Repositorios públicos de Machine Learning  https://www.kaggle.com/code/rananikhil/cardiovascular-disease/input 
+
+Número de filas y columnas: 1,025 filas  y 14 columnas.
+
+Formato del archivo: CSV.
