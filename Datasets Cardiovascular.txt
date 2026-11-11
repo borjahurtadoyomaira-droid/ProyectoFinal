@@ -9,3 +9,19 @@ Fuente / URL de descarga: Kaggle / Repositorios públicos de Machine Learning  h
 Número de filas y columnas: 1,025 filas  y 14 columnas.
 
 Formato del archivo: CSV.
+Las variables son :
+Nombre de columna/ tipo de dato /Descripción /Ejemplo de valor 
+age	Numérico (int)	Edad del paciente en años	/52
+sex Numérico (int) Género del paciente (1 = masculino, 0 = femenino) /1
+cp Numérico (int) Tipo de dolor torácico (valores de 0 a 3) /0
+trestbps Numérico (int)	Presión arterial en reposo (en mm Hg)	125
+chol	Numérico (int)	Colesterol sérico en mg/dl	212
+fbs	Numérico (int)	Azúcar en sangre en ayunas > 120 mg/dl (1 = verdadero, 0 = falso)	0
+restecg	Numérico (int)	Resultados electrocardiográficos en reposo (0, 1, 2)	1
+thalach	Numérico (int)	Frecuencia cardíaca máxima alcanzada	168
+exang	Numérico (int)	Angina inducida por el ejercicio (1 = sí, 0 = no)	0
+oldpeak	Numérico (float)	Depresión del segmento ST inducida por el ejercicio 	1.0
+slope	Numérico (int)	Pendiente del segmento ST de ejercicio pico (0, 1, 2) 	2
+ca	Numérico (int)	Número de vasos principales coloreados por fluoroscopia (0 a 3)	2
+thal	Numérico (int)	Resultado de la prueba de talio (3 = normal, 6 = defecto fijo, 7 = defecto reversible)	3
+target
