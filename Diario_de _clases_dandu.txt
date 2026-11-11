@@ -1,12 +1,20 @@
 Miercoles 28 de Octubre:
-En la clase inició un nuevo tema denominado librerias el cual siendo más prevalente Numpy;
-se profundizó de esta siendo su función especial matrices.
+En la clase inició un nuevo tema denominado librerías el cual es el más revalente a Numpy;
+se profundizó de esta, siendo su función especial matrices.
 Exploramos desde import para poder inicializar hasta diferentes metodos para poder ejecutar todo con mayor facilidad.
 Explicó la terminología de vectorización y arreglo; recordando el dir junto con el type.
 
 Miercoles 4 de Noviembre:
-Continuamos con el tema de las librerias enfocandonos en Pandas as pd;
-luego de repasar conceptos de la clase anterior en la cual algunas veces me confundo, se continuó con series, dataframe
-iíndice, etiquetas, posición, mascara siendo estos los terminos mas importantes de la clase, aclarando que pandas
+Continuamos con el tema de las librerías enfocandonos en Pandas as pd;
+luego de repasar conceptos de la clase anterior en la cual algunas veces me confundo, se continuó con series, Dataframe
+iíndice, etiquetas, posición, mascara, siendo estos los términos más importantes de la clase, aclarando que pandas
 se enfoca en organizar datos. 
-Se dejó de pendiente buscar dos dataframe relacionado con biomédica.
+Se dejó de pendiente buscar dos Dataframe relacionado con biomédica.
+
+Lunes 9 de Noviembre
+Se inició nueva librería denominada Matplotlib reconocida con su funcion de gráficos aprendiendo a utilizar los de 2D.
+Se vieron conceptos de coordenadas, y el tip de que despues del punto de plt se utiliza ( ); Existen varios tipos
+de gráficas, tales como la de dispersión enfocada en tendencia, la gráfica de torta o pastel, subgráficas y tambien vimos figuras.
+El profesor revisó los Dataframe para continuar con subirlos al remoto de GitHub, cosa que quedó como pendiente tener lista
+para mostrar la próxima clase dada la guía de instrucciones publicada en Teams.
+

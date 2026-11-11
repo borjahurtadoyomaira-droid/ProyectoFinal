@@ -1,0 +1,18 @@
+Heart Disease Dataset (versión Cleveland del UCI Heart Disease).
+
+¿Qué es? 
+Son los datos clínicos de 303 pacientes para estudiar la presencia de enfermedad cardíaca. 
+Incluye edad, sexo, tipo de dolor en el pecho (cp), presión en reposo (trestbps),
+colesterol (chol), glucosa en ayunas (fbs), electrocardiograma (restecg), 
+frecuencia cardíaca máxima (thalach), angina por ejercicio (exang), oldpeak, slope, ca y thal. 
+La variable objetivo es target, que indica si hay enfermedad cardíaca (1) o no (0). 
+Se usa para análisis exploratorio y modelos de clasificación.
+
+¿Cómo se obtuvieron los datos? 
+Son registros clínicos de pacientes, con exámenes médicos y pruebas de esfuerzo. 
+
+Fuente / URL: https://www.kaggle.com/datasets/data855/heart-disease
+
+Filas y columnas: 303 filas × 14 columnas (sin valores nulos).
+
+Formato: CSV: (heart.csv).

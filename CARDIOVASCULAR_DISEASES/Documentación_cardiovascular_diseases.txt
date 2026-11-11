@@ -1,0 +1,18 @@
+Cardiovascular Disease Dataset (cardio_train).
+
+¿Qué es? 
+Son los datos de 70.000 pacientes para predecir si tienen enfermedad cardiovascular. 
+Las variables son: age (en días), gender, height, weight, ap_hi y ap_lo (presión sistólica y diastólica), 
+cholesterol, gluc, smoke, alco, active, y la variable objetivo cardio (0 = sin enfermedad, 1 = con enfermedad). 
+Su propósito es análisis de factores de riesgo y modelos predictivos.
+Según su documentación, hay tres tipos de variables: objetivas (edad, estatura, peso, sexo), 
+de examen (presión, colesterol, glucosa) y subjetivas, informadas por el paciente (fumar, alcohol, actividad física).
+
+¿Cómo se obtuvieron los datos? 
+Se recolectaron en exámenes médicos. 
+
+Fuente / URL: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset.
+ 
+Filas y columnas: 70.000 filas × 13 columnas (incluye la columna id; sin valores nulos).
+
+Formato: CSV (cardio_train.csv, venía dentro de un .zip). 
