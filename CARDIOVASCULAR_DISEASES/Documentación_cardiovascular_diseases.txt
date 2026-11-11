@@ -11,7 +11,7 @@ de examen (presión, colesterol, glucosa) y subjetivas, informadas por el pacien
 ¿Cómo se obtuvieron los datos? 
 Se recolectaron en exámenes médicos. 
 
-Fuente / URL: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset.
+Fuente / URL: https://www.kaggle.com/code/vbmokin/20-models-for-cardiovascular-disease-prediction/input
  
 Filas y columnas: 70.000 filas × 13 columnas (incluye la columna id; sin valores nulos).
 

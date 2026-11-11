@@ -11,7 +11,7 @@ Se usa para análisis exploratorio y modelos de clasificación.
 ¿Cómo se obtuvieron los datos? 
 Son registros clínicos de pacientes, con exámenes médicos y pruebas de esfuerzo. 
 
-Fuente / URL: https://www.kaggle.com/datasets/data855/heart-disease
+Fuente / URL: https://www.kaggle.com/datasets/data855/heart-disease/data
 
 Filas y columnas: 303 filas × 14 columnas (sin valores nulos).
 
