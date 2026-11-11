@@ -2,17 +2,27 @@ Cardiovascular Disease Dataset (cardio_train).
 
 ¿Qué es? 
 Son los datos de 70.000 pacientes para predecir si tienen enfermedad cardiovascular. 
-Las variables son: id (id number), age (en días), gender(1 - women, 2 - men), height (cm), weight (kg),
-ap_hi (Systolic blood pressure) y ap_lo (Diastolic blood pressure) (presión sistólica y diastólica), 
-cholesterol (1: normal, 2: above normal, 3: well above normal), gluc (1: normal, 2: above normal, 3: well above normal),
-smoke (whether patient smokes or not), alco (Binary feature), active (Binary feature),
-y la variable objetivo cardio (0 = sin enfermedad, 1 = con enfermedad). 
+
+Las variables son: 
+Number identity | Objective Feature | id | int
+Age | Objective Feature | age | int (days)
+Height | Objective Feature | height | int (cm) 
+Weight | Objective Feature | weight | float (kg) 
+Gender | Objective Feature | gender | 1 - women, 2 - men
+Systolic blood pressure | Examination Feature | ap_hi | int 
+Diastolic blood pressure | Examination Feature | ap_lo | int 
+Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal 
+Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal 
+Smoking | Subjective Feature | smoke | 1 - smoker, 0 non-smoker
+Alcohol intake | Subjective Feature | alco | 1 -alcoholic, 0 non-alcoholic
+Physical activity | Subjective Feature | active | 1 - physical activity, 0 non-physical activity
+Presence or absence of cardiovascular disease | Target Variable | cardio | 1- disease, 0 non-disease
 
 ¿Cómo se obtuvieron los datos? 
 Se recolectaron en exámenes médicos. 
 
 Fuente / URL: https://www.kaggle.com/code/vbmokin/20-models-for-cardiovascular-disease-prediction/input
  
-Filas y columnas: 70.000 filas × 13 columnas (incluye la columna id; sin valores nulos).
+Filas y columnas: 70.000 filas × 13 columnas  (sin valores nulos).
 
 Formato: CSV (cardio_train.csv, venía dentro de un .zip). 
