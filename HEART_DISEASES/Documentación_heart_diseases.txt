@@ -1,12 +1,23 @@
 Heart Disease Dataset (versión Cleveland del UCI Heart Disease).
 
 ¿Qué es? 
-Son los datos clínicos de 303 pacientes para estudiar la presencia de enfermedad cardíaca. 
-Incluye edad, sexo, tipo de dolor en el pecho (cp), presión en reposo (trestbps),
-colesterol (chol), glucosa en ayunas (fbs), electrocardiograma (restecg), 
-frecuencia cardíaca máxima (thalach), angina por ejercicio (exang), oldpeak, slope, ca y thal. 
-La variable objetivo es target, que indica si hay enfermedad cardíaca (1) o no (0). 
-Se usa para análisis exploratorio y modelos de clasificación.
+Son los datos clínicos de 303 pacientes para estudiar la presencia de enfermedad cardíaca.
+ 
+Incluye:
+Edad /age 
+Género / sex
+Tipo de dolor en el pecho / cp
+Presión en reposo / trestbps
+Colesterol /chol
+Glucosa en ayunas /fbs
+Electrocardiograma / restecg
+Frecuencia cardíaca máxima /thalach
+Angina por ejercicio /exang / 1-dolor de pecho, 2- sin dolor de pecho 
+Prueba de esfuerzo /oldpeak
+Pendiente de la frecuencia cardíaca /slope 
+Calcio coronario /ca 
+Prueba de esfuerzo con talio /thal. 
+Enfermedad cardíaca /target/ 1-enfermedad cardíaca, 2-sin enfermedad cardíaca
 
 ¿Cómo se obtuvieron los datos? 
 Son registros clínicos de pacientes, con exámenes médicos y pruebas de esfuerzo. 
