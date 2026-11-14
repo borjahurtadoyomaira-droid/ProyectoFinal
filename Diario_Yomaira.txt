@@ -1,6 +1,6 @@
 Miércoles 28 de octubre 
 
-- Vimos librerías de numpy, pandas y matplotlib para matrices
+- Vimos librerías de numpy, pandas y matplotlib para matricess
 - Miramos arreglos con array, zeros, ones, arange, linspace, random.normal y números aleatorios
 - También miramos matrices con filas, columnas, dimensiones, elementos en total, y tipo de variable con shape, ndim, size, dty
 - Miramos indexaciones y que cuando queremos copiar lo mismo utilizamos copy 
